@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "markdown-it plugin for fenced mermaid, revived",
   "main": "src/index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Revomatico/markdown-it-mermaid-fence-new.git"
